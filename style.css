@@ -1,0 +1,32 @@
+.ui.borderless.topmenu.menu{
+    background-color: white;
+    box-shadow: none;
+    border:none;
+    box-sizing: 100px;
+    color: rgba(0, 0, 0, 0.4);
+
+}
+
+.ui.borderless.middlemenu.menu{
+    border:none;
+    box-shadow: none;
+}
+
+.grad-background {
+    background: url("https://static.acer.com/up/Resource/Acer/Images/US/Home/Primary/20200221/AcerUS_20Q1_eComm_AGW_W8_1920X800.png") no-repeat center center fixed;
+    box-shadow: none;
+    height: 1000px;
+    border: none;
+    padding-top: 250px;
+    font-size: 300%;
+    color: white;
+}
+.medium.text {
+    font-size: 50%;
+}
+.small.text {
+    font-size: 35%;
+}
+.ui.sixteen.wide.item {
+    color: rgba(0, 0, 0, 0.4);
+}
